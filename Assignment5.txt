@@ -1,0 +1,6 @@
+3. running:
+raxmlHPC-HYBRID-AVX -T 4 -s infile -N autoMRE -n result -f a -p 12345 -x 12345 -m PROTCATJTT
+
+4. Dobsonia Viridis
+
+5. Understanding the phylogeny of this gene might prove useful because the ACE2 gene in a bat may be compatible of being a host for coronavirus threats. With the COVID-19 pandemic, understanding this gene and which species have the compatible version of this gene may prove to be worth studying in prevention of coronavirus outbreaks. 
