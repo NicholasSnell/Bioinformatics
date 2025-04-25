@@ -1,0 +1,10 @@
+1.) Bos Taurus 
+
+2.) BRCA2
+
+3.) TCCGTAGTTATGCTACAACAGGG
+
+4.) Left: TGAAATGCAAAACGGTTATCAG (chr12:28657752-28657774)
+    Right: ATTGCTTGAAGACTTTCCCAAA (chr12:28657530-28657552)
+    
+5.) The possibility that the BRCA2 gene could be knocked out could cause an increased chance of developing tumors and cancer because the BRCA2 gene acts as a suppressor for tumors and repairs damaged DNA.
